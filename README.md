@@ -1,3 +1,8 @@
+# Continuation
+
+This project is the follow-up to this project:  [React](https://github.com/danutnanu/React-Run)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
