@@ -15,7 +15,7 @@ function Cards() {
                   src="run1.png"
                   text="First Official Half Marathon - June 2022"
                   label="Crazy Run"
-                  path="#"
+                  path="story"
                 />
                 <CardItem
                   src='run2.png'
