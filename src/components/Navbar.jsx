@@ -23,7 +23,7 @@ function Navbar() {
           </div>
           {/* Hamburger Menu */}
 
-          <ul className={click ? 'nav-menu active' : 'nav-menu'}>
+          <ul className={click ? 'nav-menu list-unstyled active' : 'nav-menu list-unstyled'}>
             <li className='nav-item mt-2'>
               <a href='/#' className='nav-links text-secondary' onClick={closeMobileMenu}>Home</a>
             </li>
