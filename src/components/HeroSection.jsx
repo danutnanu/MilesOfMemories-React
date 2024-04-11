@@ -6,7 +6,7 @@ import './HeroSection.css';
 function HeroSection() {
   return (
     <div className='hero-container w-100 border border-warning'>
-      <video src="./video1.mp4" autoPlay loop muted className='w-100 h-100 position-fixed' />
+      <video src="./video1.mp4" autoPlay loop muted className='w-100 h-100 position-absolute' />
       <div className='hero-first m-5 pb-5 '>
         <p className='h3'>Developed by: Danut Nanu</p>
         <p className='h3'>Designed by: Danut Nanu</p>
