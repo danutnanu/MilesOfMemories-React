@@ -5,20 +5,68 @@ function Story1() {
 
   return (
     <>
-      <h1 className="text-primary text-center h1">STORY 1</h1>
-      <p className="text-secondary text-center h3">Wellcome to my empty page</p>
-     <p className="text-secondary text-start ms-5 h4">Text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text </p>
-     <div className=' border border-dark'>
-                <img href='/#run2022'
-                  src="./run1.png run2.png"
-                  text="First Official Half Marathon - June 2022"
-                />
-                <a href='/#run2022'
-                  src='run2.png'
-                  text='First Marathon - October 2022'
-                  path='story2'
-                />
-          </div>
+      <div className="text-center text-secondary p-5 m-5 border border-danger">
+        <h1 className="text-center h1">STORY 1</h1>
+        <p className="text-secondary text-center h3">Wellcome to my empty page</p>
+        <p className="text-secondary text-start ms-5 h4">Text text tetext text text text text text text </p>
+      </div>
+
+      <div className="text-center text-secondary m-5 p-0 p-lg-5 border border-danger">
+        <table className="table table-bordered">
+          <thead>
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">Date</th>
+              <th scope="col">Location</th>
+              <th scope="col">5K</th>
+              <th scope="col">10K</th>
+              <th scope="col">15K</th>
+              <th scope="col">20K</th>
+              <th scope="col">Finish Half</th>
+              <th scope="col">25K</th>
+              <th scope="col">30K</th>
+              <th scope="col">35K</th>
+              <th scope="col">40K</th>
+              <th scope="col">Finish</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">1</th>
+              <td>Mark</td>
+              <td>Otto</td>
+              <td>@mdo</td>
+            </tr>
+            <tr>
+              <th scope="row">2</th>
+              <td>Jacob</td>
+              <td>Thornton</td>
+              <td>@fat</td>
+            </tr>
+            <tr>
+              <th scope="row">3</th>
+              <td colspan="2">Larry the Bird</td>
+              <td>@twitter</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div className=' border border-danger m-5'>
+        <img
+          className="m-auto mt-2 w-50 rounded img-thumbnail"
+          src="./1half22.png"
+        />
+        <img
+          className="m-auto mt-2 w-50 rounded img-thumbnail"
+          src="./2half22.png"
+        />
+        <img
+          className="m-auto mt-2 w-50 rounded img-thumbnail"
+          src="./3half22.png"
+        />
+      </div>
+
     </>
   );
 }
