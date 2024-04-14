@@ -7,14 +7,14 @@ function Story1() {
     <>
       <div className="text-center text-secondary p-5 m-5 border border-danger">
         <h1 className="text-center h1">STORY 1</h1>
-        <p className="text-secondary text-center h3">Wellcome to my empty page</p>
+        <p className="text-secondary text-center h3">Wellcome to my first page</p>
         <p className="text-secondary text-start ms-5 h4">Text text tetext text text text text text text </p>
       </div>
 
       <div className="text-center text-secondary m-5 p-0 p-lg-5 border border-danger">
         <table className="table table-bordered">
           <thead>
-            <tr>
+            <tr class="table-active">
               <th scope="col">#</th>
               <th scope="col">Date</th>
               <th scope="col">Location</th>
@@ -31,22 +31,15 @@ function Story1() {
             </tr>
           </thead>
           <tbody>
-            <tr>
+            <tr class="table-warning">
               <th scope="row">1</th>
-              <td>Mark</td>
-              <td>Otto</td>
-              <td>@mdo</td>
-            </tr>
-            <tr>
-              <th scope="row">2</th>
-              <td>Jacob</td>
-              <td>Thornton</td>
-              <td>@fat</td>
-            </tr>
-            <tr>
-              <th scope="row">3</th>
-              <td colspan="2">Larry the Bird</td>
-              <td>@twitter</td>
+              <td>19.06.2022</td>
+              <td>Plymouth Half</td>
+              <td>33m 51s</td>
+              <td>1:03</td>
+              <td>1:33</td>
+              <td>2:03</td>
+              <td>2:07</td>
             </tr>
           </tbody>
         </table>
