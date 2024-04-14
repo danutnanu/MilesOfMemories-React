@@ -2,14 +2,7 @@
 
 This project is the follow-up to this project:  [React](https://github.com/danutnanu/React-Run)
 
-
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # MilesOfMemories-React
-# MilesOfMemories-React
+
+The website page can be accessed here [Netlify](https://milesofmemories.netlify.app/)
+
