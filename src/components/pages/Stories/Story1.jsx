@@ -11,7 +11,7 @@ function Story1() {
         <p className="text-secondary text-start ms-5 h4">Text text tetext text text text text text text </p>
       </div>
 
-      <div className="text-center text-secondary m-5 p-0 p-lg-5 border border-danger">
+      <div className="text-center text-secondary m-5 p-lg-5 border border-danger w-75 m-auto">
         <table className="table table-bordered">
           <thead>
             <tr class="table-active">
