@@ -27,7 +27,7 @@ function Cards() {
               <CardItem
                 src='run3.png'
                 text='Exeter Marathon - May 2023'
-                path='#'
+                path='story3'
               />
               <CardItem
                 src='run4.png'
