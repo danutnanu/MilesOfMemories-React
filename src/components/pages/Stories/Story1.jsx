@@ -40,6 +40,11 @@ function Story1() {
               <td>1:33</td>
               <td>2:03</td>
               <td>2:07</td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
             </tr>
           </tbody>
         </table>
