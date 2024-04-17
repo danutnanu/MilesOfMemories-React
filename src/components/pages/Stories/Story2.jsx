@@ -64,6 +64,27 @@ function Story2() {
           </tbody>
         </table>
       </div>
+
+      <div className=' border border-danger m-5'>
+        <img
+          className="m-auto mt-2 w-50 rounded img-thumbnail"
+          src="./1marathon22.png"
+        />
+        <img
+          className="m-auto mt-2 w-50 rounded img-thumbnail"
+          src="./2marathon22.png"
+        />
+        <img
+          className="m-auto mt-2 w-50 rounded img-thumbnail"
+          src="./3marathon22.png"
+        />
+        <img
+          className="m-auto mt-2 w-50 rounded img-thumbnail"
+          src="./4marathon22.png"
+        />
+      </div>
+
+      
     </>
   );
 }
