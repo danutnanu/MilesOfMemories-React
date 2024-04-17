@@ -6,6 +6,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Story1 from './components/pages/Stories/Story1';
 import Story2 from './components/pages/Stories/Story2';
 import Story3 from './components/pages/Stories/Story3';
+import Story4 from './components/pages/Stories/Story4';
 // import ReactDOM from 'react-dom/client'
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
           <Route path='/story1' element={<Story1 />} />
           <Route path='/story2' element={<Story2 />} />
           <Route path='/story3' element={<Story3 />} />
+          <Route path='/story4' element={<Story4 />} />
         </Routes>
       </Router>
     </>
