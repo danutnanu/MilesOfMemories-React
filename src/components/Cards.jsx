@@ -32,7 +32,7 @@ function Cards() {
               <CardItem
                 src='run4.png'
                 text='Eden Marathon - October 2023'
-                path='#'
+                path='story4'
               />
         </ul>
 
