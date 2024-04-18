@@ -51,7 +51,7 @@ function Cards() {
               <CardItem
                 src='logo2.png'
                 text='October 2024'
-                path='#'
+                path='story7'
               />
           </ul>
       </div>
