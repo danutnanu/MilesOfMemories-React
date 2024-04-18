@@ -92,6 +92,21 @@ function Story5() {
               <td>4:45</td>
               <td className='text-danger'>4:57</td>
             </tr>
+            <tr class="table-warning">
+              <th scope="row">5</th>
+              <td>28.04.2024</td>
+              <td className='text-success'>Plymouth Half</td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td className='text-danger'>?</td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td className='text-danger'></td>
+            </tr>
           </tbody>
         </table>
       </div>
