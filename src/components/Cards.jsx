@@ -46,7 +46,7 @@ function Cards() {
               <CardItem
                 src='logo.png'
                 text='Coming soon...'
-                path='#'
+                path='story6'
               />
               <CardItem
                 src='logo2.png'
