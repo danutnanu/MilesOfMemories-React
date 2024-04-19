@@ -8,6 +8,7 @@ function Story2() {
     <>
       <div className="text-center text-secondary p-5 m-5 border border-danger">
         <h1 className="text-center h1">STORY 2</h1>
+        <p className="text-secondary text-center h3">Eden Marathon - 2022</p>
         <p className="text-secondary text-center h3">Wellcome to my second page</p>
         <p className="text-secondary text-start ms-5 h4">Text text tetext text text text text text text </p>
       </div>

@@ -7,6 +7,7 @@ function Story4() {
     <>
       <div className="text-center text-secondary p-5 m-5 border border-danger">
         <h1 className="text-center h1">STORY 4</h1>
+        <p className="text-secondary text-center h3">Eden Marathon - 2023</p>
         <p className="text-secondary text-center h3">Wellcome to my fourth page</p>
         <p className="text-secondary text-start ms-5 h4">Text text tetext text text text text text text </p>
       </div>
@@ -101,7 +102,7 @@ function Story4() {
           <Carousel.Item>
             <img
               className="d-block w-100"
-              src="./1marathon22.png"
+              src="./1Eden23.png"
               alt="First slide"
             />
             <Carousel.Caption>
@@ -112,18 +113,7 @@ function Story4() {
           <Carousel.Item>
             <img
               className="d-block w-100"
-              src="./2marathon22.png"
-              alt="Second slide"
-            />
-            <Carousel.Caption>
-              <h3>Second slide label</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </Carousel.Caption>
-          </Carousel.Item>
-          <Carousel.Item>
-            <img
-              className="d-block w-100"
-              src="./3marathon22.png"
+              src="./2Eden23.png"
               alt="third slide"
             />
             <Carousel.Caption>
@@ -134,7 +124,40 @@ function Story4() {
           <Carousel.Item>
             <img
               className="d-block w-100"
-              src="./4marathon22.png"
+              src="./3Eden23.png"
+              alt="fourth slide"
+            />
+            <Carousel.Caption>
+              <h3>Second slide label</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </Carousel.Caption>
+          </Carousel.Item>
+          <Carousel.Item>
+            <img
+              className="d-block w-100"
+              src="./4Eden23.png"
+              alt="fourth slide"
+            />
+            <Carousel.Caption>
+              <h3>Second slide label</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </Carousel.Caption>
+          </Carousel.Item>
+          <Carousel.Item>
+            <img
+              className="d-block w-100"
+              src="./5Eden23.png"
+              alt="fourth slide"
+            />
+            <Carousel.Caption>
+              <h3>Second slide label</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </Carousel.Caption>
+          </Carousel.Item>
+          <Carousel.Item>
+            <img
+              className="d-block w-100"
+              src="./6Eden23.png"
               alt="fourth slide"
             />
             <Carousel.Caption>
