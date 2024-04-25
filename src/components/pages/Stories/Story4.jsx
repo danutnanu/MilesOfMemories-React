@@ -1,5 +1,6 @@
 import React from 'react'
 import { Carousel } from 'react-bootstrap';
+// import "./Story.css";
 
 function Story4() {
 
@@ -105,10 +106,6 @@ function Story4() {
               src="./1Eden23.png"
               alt="First slide"
             />
-            <Carousel.Caption>
-              <h3>First slide label</h3>
-              <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-            </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img
@@ -116,10 +113,6 @@ function Story4() {
               src="./2Eden23.png"
               alt="third slide"
             />
-            <Carousel.Caption>
-              <h3>Second slide label</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img
@@ -127,10 +120,6 @@ function Story4() {
               src="./3Eden23.png"
               alt="fourth slide"
             />
-            <Carousel.Caption>
-              <h3>Second slide label</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img
@@ -138,10 +127,6 @@ function Story4() {
               src="./4Eden23.png"
               alt="fourth slide"
             />
-            <Carousel.Caption>
-              <h3>Second slide label</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img
@@ -149,10 +134,6 @@ function Story4() {
               src="./5Eden23.png"
               alt="fourth slide"
             />
-            <Carousel.Caption>
-              <h3>Second slide label</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img
@@ -160,10 +141,6 @@ function Story4() {
               src="./6Eden23.png"
               alt="fourth slide"
             />
-            <Carousel.Caption>
-              <h3>Second slide label</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </Carousel.Caption>
           </Carousel.Item>
         </Carousel>
       </div>

@@ -90,10 +90,6 @@ function Story3() {
               src="./1Exeter23.png"
               alt="First slide"
             />
-            <Carousel.Caption>
-              <h3>First slide label</h3>
-              <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-            </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img
@@ -101,10 +97,6 @@ function Story3() {
               src="./2Exeter23.png"
               alt="Second slide"
             />
-            <Carousel.Caption>
-              <h3>Second slide label</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img
@@ -112,10 +104,6 @@ function Story3() {
               src="./3Exeter23.png"
               alt="third slide"
             />
-            <Carousel.Caption>
-              <h3>Second slide label</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img
@@ -123,10 +111,6 @@ function Story3() {
               src="./4Exeter23.png"
               alt="fourth slide"
             />
-            <Carousel.Caption>
-              <h3>Second slide label</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </Carousel.Caption>
           </Carousel.Item>
         </Carousel>
       </div>
