@@ -23,42 +23,42 @@ function Story4() {
             <Carousel>
               <Carousel.Item>
                 <img
-                  className="d-block w-100"
+                  className="d-block w-100 rounded"
                   src="./1Eden23.png"
                   alt="First slide"
                 />
               </Carousel.Item>
               <Carousel.Item>
                 <img
-                  className="d-block w-100"
+                  className="d-block w-100 rounded"
                   src="./2Eden23.png"
                   alt="third slide"
                 />
               </Carousel.Item>
               <Carousel.Item>
                 <img
-                  className="d-block w-100"
+                  className="d-block w-100 rounded"
                   src="./3Eden23.png"
                   alt="fourth slide"
                 />
               </Carousel.Item>
               <Carousel.Item>
                 <img
-                  className="d-block w-100"
+                  className="d-block w-100 rounded"
                   src="./4Eden23.png"
                   alt="fourth slide"
                 />
               </Carousel.Item>
               <Carousel.Item>
                 <img
-                  className="d-block w-100"
+                  className="d-block w-100 rounded"
                   src="./5Eden23.png"
                   alt="fourth slide"
                 />
               </Carousel.Item>
               <Carousel.Item>
                 <img
-                  className="d-block w-100"
+                  className="d-block w-100 rounded"
                   src="./6Eden23.png"
                   alt="fourth slide"
                 />

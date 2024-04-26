@@ -23,21 +23,21 @@ function Story1() {
             <Carousel>
               <Carousel.Item>
                 <img
-                  className="d-block w-100"
+                  className="d-block w-100 rounded"
                   src="./1half22.png"
                   alt="First slide"
                 />
               </Carousel.Item>
               <Carousel.Item>
                 <img
-                  className="d-block w-100"
+                  className="d-block w-100 rounded"
                   src="./2half22.png"
                   alt="Second slide"
                 />
               </Carousel.Item>
               <Carousel.Item>
                 <img
-                  className="d-block w-100"
+                  className="d-block w-100 rounded"
                   src="./3half22.png"
                   alt="third slide"
                 />

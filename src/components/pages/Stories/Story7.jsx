@@ -22,28 +22,28 @@ function Story7() {
             <Carousel>
               <Carousel.Item>
                 <img
-                  className="d-block w-100"
+                  className="d-block w-100 rounded"
                   src="./1marathon22.png"
                   alt="First slide"
                 />
               </Carousel.Item>
               <Carousel.Item>
                 <img
-                  className="d-block w-100"
+                  className="d-block w-100 rounded"
                   src="./2marathon22.png"
                   alt="Second slide"
                 />
               </Carousel.Item>
               <Carousel.Item>
                 <img
-                  className="d-block w-100"
+                  className="d-block w-100 rounded"
                   src="./3marathon22.png"
                   alt="third slide"
                 />
               </Carousel.Item>
               <Carousel.Item>
                 <img
-                  className="d-block w-100"
+                  className="d-block w-100 rounded"
                   src="./4marathon22.png"
                   alt="fourth slide"
                 />
