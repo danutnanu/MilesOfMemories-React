@@ -7,10 +7,51 @@ function Story2() {
   return (
     <>
       <div className="text-center text-secondary p-5 m-5 border border-danger">
-        <h1 className="text-center h1">STORY 2</h1>
-        <p className="text-secondary text-center h3">Eden Marathon - 2022</p>
-        <p className="text-secondary text-center h3">Wellcome to my second page</p>
-        <p className="text-secondary text-start ms-5 h4">Text text tetext text text text text text text </p>
+        <h1 className="text-center h1 text-success">EDEN MARATHON</h1>
+        <p className="text-secondary text-center h3 text-success">October 2022</p>
+      </div>
+
+      <div className="row text-center text-secondary p-5 m-3 border border-success">
+        <div className="col-lg-6">
+          <div className="text-center text-secondary center p-5 m-5 border border-danger">
+            TEXT TEXT TEXT
+          </div>
+        </div>
+        <div className="col-lg-6">
+          <div className="text-center text-secondary p-5 mx-auto border border-danger w-75">
+            <h1>IMAGES</h1>
+            <Carousel>
+              <Carousel.Item>
+                <img
+                  className="d-block w-100"
+                  src="./1marathon22.png"
+                  alt="First slide"
+                />
+              </Carousel.Item>
+              <Carousel.Item>
+                <img
+                  className="d-block w-100"
+                  src="./2marathon22.png"
+                  alt="Second slide"
+                />
+              </Carousel.Item>
+              <Carousel.Item>
+                <img
+                  className="d-block w-100"
+                  src="./3marathon22.png"
+                  alt="third slide"
+                />
+              </Carousel.Item>
+              <Carousel.Item>
+                <img
+                  className="d-block w-100"
+                  src="./4marathon22.png"
+                  alt="fourth slide"
+                />
+              </Carousel.Item>
+            </Carousel>
+          </div>
+        </div>
       </div>
 
       <div className="text-center text-secondary m-5 p-lg-5 border border-danger w-75 m-auto">
@@ -65,40 +106,6 @@ function Story2() {
             </tr>
           </tbody>
         </table>
-      </div>
-
-      <div className="text-center text-secondary p-5 m-5 border border-danger">
-        <h1>IMAGES</h1>
-        <Carousel>
-          <Carousel.Item>
-            <img
-              className="d-block w-100"
-              src="./1marathon22.png"
-              alt="First slide"
-            />
-          </Carousel.Item>
-          <Carousel.Item>
-            <img
-              className="d-block w-100"
-              src="./2marathon22.png"
-              alt="Second slide"
-            />
-          </Carousel.Item>
-          <Carousel.Item>
-            <img
-              className="d-block w-100"
-              src="./3marathon22.png"
-              alt="third slide"
-            />
-          </Carousel.Item>
-          <Carousel.Item>
-            <img
-              className="d-block w-100"
-              src="./4marathon22.png"
-              alt="fourth slide"
-            />
-          </Carousel.Item>
-        </Carousel>
       </div>
     </>
   );
