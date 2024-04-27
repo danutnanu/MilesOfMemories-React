@@ -6,19 +6,19 @@ function Story1() {
 
   return (
     <>
-      <div className="text-center text-secondary p-5 m-5 border border-danger">
+      <div className="text-center text-secondary m-5 border border-danger">
         <h1 className="text-center h1 text-success">PLYMOUTH HALF MARATHON</h1>
         <p className="text-secondary text-center h3 text-success">June 2022</p>
       </div>
 
-      <div className="row text-center text-secondary p-5 m-3 border border-success">
+      <div className="row text-center text-secondary m-3 border border-success">
         <div className="col-lg-6">
-          <div className="text-center text-secondary center p-5 m-5 border border-danger">
+          <div className="text-center text-secondary p-5 m-5 border border-danger">
             TEXT TEXT TEXT
           </div>
         </div>
         <div className="col-lg-6">
-          <div className="text-center text-secondary center p-5 mx-auto border border-danger w-75">
+          <div className="text-center text-secondary p-lg-5 mx-auto border border-danger w-75">
             <h1>IMAGES</h1>
             <Carousel>
               <Carousel.Item>
@@ -70,12 +70,12 @@ function Story1() {
             <tr class="table-warning">
               <th scope="row">1</th>
               <td>19.06.2022</td>
-              <td>Plymouth Half</td>
+              <td className="text-success">Plymouth Half</td>
               <td>33m 51s</td>
               <td>1:03</td>
               <td>1:33</td>
               <td>2:03</td>
-              <td>2:07</td>
+              <td className="text-danger">2:07</td>
               <td></td>
               <td></td>
               <td></td>
