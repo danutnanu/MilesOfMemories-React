@@ -12,12 +12,12 @@ function Story6() {
 
       <div className="row text-center text-secondary m-3 border border-success">
         <div className="col-lg-6">
-          <div className="text-center text-secondary center p-5 m-5 border border-danger">
+          <div className="text-center text-secondary p-5 m-5 border border-danger">
             TEXT TEXT TEXT
           </div>
         </div>
         <div className="col-lg-6">
-          <div className="text-center text-secondary center p-lg-5 mx-auto border border-danger w-75">
+          <div className="text-center text-secondary p-lg-5 mx-auto border border-danger w-75">
             <h1>IMAGES</h1>
             <Carousel>
               <Carousel.Item>
@@ -53,7 +53,7 @@ function Story6() {
         </div>
       </div>
 
-      <div className="text-center text-secondary m-5 p-lg-5 border border-danger w-75 m-auto">
+      <div className="table-responsive text-center text-secondary p-5 m-3 border border-danger w-90">
         <table className="table table-bordered">
           <thead>
             <tr class="table-active">
