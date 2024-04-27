@@ -8,7 +8,7 @@ function Story1() {
     <>
       <div className="text-center text-secondary m-5 border border-danger">
         <h1 className="text-center h1 text-success">PLYMOUTH HALF MARATHON</h1>
-        <p className="text-secondary text-center h3 text-success">June 2022</p>
+        <h2 className="text-secondary text-center h3 text-success">June 2022</h2>
       </div>
 
       <div className="row text-center text-secondary m-3 border border-success">
