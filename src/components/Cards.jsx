@@ -40,7 +40,7 @@ function Cards() {
         <ul className='cards__items list-unstyled'>
               <CardItem
                 src='logo.png'
-                text='Coming soon...'
+                text='Plymouth Half Marathon - April 2024'
                 path='story5'
               />
               <CardItem
