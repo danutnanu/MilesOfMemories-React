@@ -137,11 +137,11 @@ function Story5() {
               <th scope="row">5</th>
               <td>28.04.2024</td>
               <td className='text-success'>Plymouth Half</td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td className='text-danger'>?</td>
+              <td>27m 20s</td>
+              <td>53:46</td>
+              <td>1:21</td>
+              <td>1:50</td>
+              <td className='text-danger'>1:58</td>
               <td></td>
               <td></td>
               <td></td>
