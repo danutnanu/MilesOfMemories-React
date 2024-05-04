@@ -7,47 +7,62 @@ function Story1() {
   return (
     <>
       <div className="text-center text-secondary m-5">
-        <h1 className="text-center h1 text-success">PLYMOUTH HALF MARATHON</h1>
-        <h2 className="text-secondary text-center h3 text-success">June 2022</h2>
+        <h1 className="text-center h1 text-secondary">PLYMOUTH HALF MARATHON</h1>
+        <h2 className="text-secondary text-center h3">June 2022</h2>
       </div>
 
-      <div className="row text-center text-secondary m-3">
-        <div className="col-lg-6">
-          <div className="text-center text-secondary p-5 m-5">
-            TEXT TEXT TEXT
+      <div className="container">
+        <div className="row text-center text-secondary m-3">
+          <div className="col-lg-6">
+            <div className="text-center text-secondary h3 p-5 mt-5">
+              <p>
+                One day in Plymouth, everything just clicked.
+              </p>
+            </div>
+            <div className="text-center text-secondary h3 p-5">
+              <p>
+                I started running long distances at age 40 and realized that everything is possible if you push your limits.
+              </p>
+            </div>
+            <div className="text-center text-secondary h3 p-5 mb-5">
+              <p>
+                I started running long distances at age 40 and realized that everything is possible if you push your limits.
+              </p>
+            </div>
           </div>
-        </div>
-        <div className="col-lg-6">
-          <div className="text-center text-secondary p-lg-5 mx-auto w-75">
-            <h1 className="mb-5">IMAGES</h1>
-            <Carousel>
-              <Carousel.Item>
-                <img
-                  className="d-block w-100 rounded"
-                  src="./1half22.png"
-                  alt="First slide"
-                />
-              </Carousel.Item>
-              <Carousel.Item>
-                <img
-                  className="d-block w-100 rounded"
-                  src="./2half22.png"
-                  alt="Second slide"
-                />
-              </Carousel.Item>
-              <Carousel.Item>
-                <img
-                  className="d-block w-100 rounded"
-                  src="./3half22.png"
-                  alt="third slide"
-                />
-              </Carousel.Item>
-            </Carousel>
+          <div className="col-lg-6">
+            <div className="text-center text-secondary p-lg-5 mx-auto w-75">
+              <h1 className="mb-5">IMAGES</h1>
+              <Carousel>
+                <Carousel.Item>
+                  <img
+                    className="d-block w-100 rounded"
+                    src="./1half22.png"
+                    alt="First slide"
+                  />
+                </Carousel.Item>
+                <Carousel.Item>
+                  <img
+                    className="d-block w-100 rounded"
+                    src="./2half22.png"
+                    alt="Second slide"
+                  />
+                </Carousel.Item>
+                <Carousel.Item>
+                  <img
+                    className="d-block w-100 rounded"
+                    src="./3half22.png"
+                    alt="third slide"
+                  />
+                </Carousel.Item>
+              </Carousel>
+            </div>
           </div>
         </div>
       </div>
 
       <div className="table-responsive text-center text-secondary p-5 m-3 w-90">
+        <p className="h1 mb-4">Timetable</p>
         <table className="table table-bordered">
           <thead>
             <tr class="table-active">
