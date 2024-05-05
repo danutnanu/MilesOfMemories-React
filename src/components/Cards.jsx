@@ -5,7 +5,8 @@ import CardItem from './CardItem'
 function Cards() {
   return (
     <div className="cards text-center text-secondary p-0 p-lg-5">
-      <h1 className='mt-5' id='run2022'>Marathons aren't just about running.</h1>
+      <h1 className='mt-5 h5'>"The legend of the marathon is not only linked to the name of Ancient Greece, but the British royal family itself seems to have had an important say. At the 1908 Olympics, the British crown insisted that the marathon start from in front of Windsor Palace, so that the royal family could watch the start of the race from the window. This officially established the distance of the marathon as 42.195 km, exactly the distance from the palace to the Olympic stadium, where the finish line of the competition was."</h1>
+      <h2 className='mt-5' id='run2022'>Marathons aren't just about running.</h2>
       <div className='cards__container m-auto w-100'>
 
         <p className='mb-5 mt-5 text-center h1'>2022</p>
