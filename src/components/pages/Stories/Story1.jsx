@@ -13,21 +13,17 @@ function Story1() {
 
       <div className="container">
         <div className="row text-center text-secondary m-3">
-          <div className="col-lg-6">
-            <div className="text-center text-secondary h3 p-5 mt-5">
+          <div className="col-lg-6 p-5">
+            <div className="text-center text-secondary h5 p-5 mt-5 border border-secondary">
               <p>
                 One day in Plymouth, everything just clicked.
-              </p>
-            </div>
-            <div className="text-center text-secondary h3 p-5">
-              <p>
                 I started running long distances at age 40 and realized that everything is possible if you push your limits.
+                It proved to me that we set our own boundaries.
               </p>
-            </div>
-            <div className="text-center text-secondary h3 p-5 mb-5">
-              <p>
+              {/* <p>
                 I started running long distances at age 40 and realized that everything is possible if you push your limits.
-              </p>
+                It proved to me that we set our own boundaries.
+              </p> */}
             </div>
           </div>
           <div className="col-lg-6">
