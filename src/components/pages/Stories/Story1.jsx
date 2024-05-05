@@ -12,7 +12,7 @@ function Story1() {
       </div>
 
       <div className="container">
-        <div className="row text-center text-secondary m-3">
+        <div className="row text-center text-secondary">
           <div className="col-lg-6 p-5">
             <div className="text-center text-secondary h5 p-5 mt-5 border border-secondary">
               <p>
