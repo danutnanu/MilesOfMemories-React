@@ -7,12 +7,12 @@ function Story1() {
   return (
     <>
       <div className="text-center text-secondary mt-5">
-        <h1 className="text-center h1 text-secondary">PLYMOUTH HALF MARATHON</h1>
+        <h1 className="text-center h1">PLYMOUTH HALF MARATHON</h1>
         <h2 className="text-secondary text-center h3">June 2022</h2>
       </div>
 
       <div className="container">
-        <div className="row text-center text-secondary">
+        <div className="row text-center">
           <div className="col-lg-6">
             <div className="text-center text-secondary h5 p-5 m-5 border border-secondary">
               <p>
@@ -22,7 +22,7 @@ function Story1() {
               </p>
             </div>
           </div>
-          <div className="col-lg-6">
+          <div className="col-lg-6 col-md-8">
             <div className="text-center text-secondary p-lg-5 mx-auto w-75">
               <Carousel>
                 <Carousel.Item>

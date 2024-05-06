@@ -1,54 +1,58 @@
 import React from 'react'
 import { Carousel } from 'react-bootstrap';
+import "./Story.css";
 
 function Story3() {
 
   return (
     <>
-      <div className="text-center text-secondary m-5">
-        <h1 className="text-center h1 text-success">EXETER MARATHON</h1>
-        <h2 className="text-secondary text-center h3 text-success">May 2023</h2>
+      <div className="text-center text-secondary mt-5">
+        <h1 className="text-center h1">EXETER MARATHON</h1>
+        <h2 className="text-secondary text-center h3">May 2023</h2>
       </div>
 
-      <div className="row text-center text-secondary m-3">
-        <div className="col-lg-6">
-          <div className="text-center text-secondary p-5 m-5">
-            TEXT TEXT TEXT
+      <div className="container">
+        <div className="row text-center">
+          <div className="col-lg-6">
+            <div className="text-center text-secondary h5 p-5 m-5 border border-secondary">
+              <p>
+                TEXT TEXT TEXT
+              </p>
+            </div>
           </div>
-        </div>
-        <div className="col-lg-6">
-          <div className="text-center text-secondary p-lg-5 mx-auto w-75">
-            <h1 className="mb-5">IMAGES</h1>
-            <Carousel>
-              <Carousel.Item>
-                <img
-                  className="d-block w-100 rounded"
-                  src="./1Exeter23.png"
-                  alt="First slide"
-                />
-              </Carousel.Item>
-              <Carousel.Item>
-                <img
-                  className="d-block w-100 rounded"
-                  src="./2Exeter23.png"
-                  alt="Second slide"
-                />
-              </Carousel.Item>
-              <Carousel.Item>
-                <img
-                  className="d-block w-100 rounded"
-                  src="./3Exeter23.png"
-                  alt="third slide"
-                />
-              </Carousel.Item>
-              <Carousel.Item>
-                <img
-                  className="d-block w-100 rounded"
-                  src="./4Exeter23.png"
-                  alt="fourth slide"
-                />
-              </Carousel.Item>
-            </Carousel>
+          <div className="col-lg-6 col-md-8">
+            <div className="text-center text-secondary p-lg-5 mx-auto w-75">
+              <Carousel>
+                <Carousel.Item>
+                  <img
+                    className="d-block w-100 rounded"
+                    src="./1Exeter23.png"
+                    alt="First slide"
+                  />
+                </Carousel.Item>
+                <Carousel.Item>
+                  <img
+                    className="d-block w-100 rounded"
+                    src="./2Exeter23.png"
+                    alt="Second slide"
+                  />
+                </Carousel.Item>
+                <Carousel.Item>
+                  <img
+                    className="d-block w-100 rounded"
+                    src="./3Exeter23.png"
+                    alt="third slide"
+                  />
+                </Carousel.Item>
+                <Carousel.Item>
+                  <img
+                    className="d-block w-100 rounded"
+                    src="./4Exeter23.png"
+                    alt="fourth slide"
+                  />
+                </Carousel.Item>
+              </Carousel>
+            </div>
           </div>
         </div>
       </div>
