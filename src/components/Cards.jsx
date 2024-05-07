@@ -40,12 +40,12 @@ function Cards() {
         <p className='m-5 text-center h1' id='run2024'>2024</p>
         <ul className='cards__items list-unstyled'>
               <CardItem
-                src='logo.png'
+                src='1Plymouth24.png'
                 text='Plymouth Half Marathon - April 2024'
                 path='story5'
               />
               <CardItem
-                src='logo.png'
+                src='1Exeter24.png'
                 text='Coming soon...'
                 path='story6'
               />
