@@ -11,7 +11,7 @@ function Story7() {
         <h2 className="text-secondary text-center h3">October 2024</h2>
       </div>
 
-      <div className="container table-responsive">
+      <div className="container">
         <div className="row text-center">
           <div className="col-lg-6">
             <div className="text-center text-secondary h5 p-5 m-5 border border-secondary">
@@ -20,7 +20,7 @@ function Story7() {
               </p>``
             </div>
           </div>
-          <div className="col-lg-6 col-md-8 mx-auto">
+          <div className="col-lg-6 col-md-8 col-10 mx-auto">
             <div className="text-center text-secondary p-lg-5 mx-auto w-75">
               <Carousel>
                 <Carousel.Item>
