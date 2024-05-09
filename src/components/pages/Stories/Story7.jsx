@@ -58,7 +58,7 @@ function Story7() {
       </div>
 
 
-      <div className="table-responsive text-center text-secondary p-5 m-3 w-90">
+      <div className="table-responsive text-center text-secondary p-lg-5 p-md-5 pt-5 mt-5 m-2 w-90">
         <table className="table table-bordered">
           <thead>
             <tr class="table-active">
