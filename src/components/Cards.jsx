@@ -46,7 +46,7 @@ function Cards() {
               />
               <CardItem
                 src='1Exeter24.png'
-                text='Coming soon...'
+                text='Exeter Marathon - May 2024'
                 path='story6'
               />
               <CardItem
