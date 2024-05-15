@@ -1,6 +1,5 @@
 import React from 'react'
 import { Carousel } from 'react-bootstrap';
-import "./Story.css";
 
 function Story7() {
 
@@ -12,7 +11,7 @@ function Story7() {
       </div>
 
       <div className="container">
-        <div className="row text-center">
+        <div className="row">
           <div className="col-lg-6">
             <div className="text-center text-secondary h5 p-5 m-5 border border-secondary">
               <p>
