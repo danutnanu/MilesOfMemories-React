@@ -1,6 +1,5 @@
 import React from 'react'
 import { Carousel } from 'react-bootstrap';
-import "./Story.css";
 
 function Story2() {
 
@@ -12,14 +11,15 @@ function Story2() {
       </div>
 
       <div className="container">
-        <div className="row text-center">
+        <div className="row">
           <div className="col-lg-6">
             <div className="text-center text-secondary h5 p-5 m-5 border border-secondary">
               <p>
-                TEXT TEXT TEXT
-                One day in Plymouth, everything just clicked.
-                I started running long distances at age 40 and realized that everything is possible if you push your limits.
-                It proved to me that we set our own boundaries.
+                NEVER GIVE UP!
+                My first ever marathon was the hardest one I have ever done.
+                 I had never run such a long distance,and my body wasn't ready for it.
+                I ran more than half of the marathon with a significant pain in my left knee.
+                Despite the challenge,I managed to finish my first marathon in almost six hours, placing in the last four.
               </p>
             </div>
           </div>
@@ -95,7 +95,7 @@ function Story2() {
               <td></td>
               <td></td>
             </tr>
-            <tr class="table-light">
+            <tr class="table-success">
               <th scope="row">2</th>
               <td>16.10.2022</td>
               <td className='text-success'>Eden Marathon</td>
