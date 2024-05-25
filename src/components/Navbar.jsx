@@ -5,7 +5,7 @@ function Navbar() {
 
   return (
     <>
-      <ul class="nav nav-tabs sticky-top bg-body-tertiary">
+      <ul class="nav nav-tabs sticky-top bg-body-tertiary justify-content-end">
         <li class="nav-item">
           <a class="nav-link active text-warning" aria-current="page" href="/#">RUN</a>
         </li>
