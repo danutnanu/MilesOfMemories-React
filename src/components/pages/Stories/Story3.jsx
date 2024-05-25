@@ -15,7 +15,10 @@ function Story3() {
           <div className="col-lg-6">
             <div className="text-center text-secondary h5 p-5 m-5 border border-secondary">
               <p>
-                TEXT TEXT TEXT
+                This was my first marathon in Exeter and my second marathon overall.
+                I felt much better and experienced less pain, managing to finish 40 minutes
+                faster than my previous marathon. Although I didn't meet my target of finishing in under 5 hours,
+                it was a significant improvement from my first marathon. Looking forward to the next one!
               </p>
             </div>
           </div>
