@@ -16,7 +16,7 @@ function Story2() {
             <div className="text-center text-secondary h5 p-5 m-5 border border-secondary">
               <p>
                 NEVER GIVE UP!
-                My first ever marathon was the hardest one I have ever done.
+                My first ever marathon was the hardest run I have ever done.
                  I had never run such a long distance,and my body wasn't ready for it.
                 I ran more than half of the marathon with a significant pain in my left knee.
                 Despite the challenge,I managed to finish my first marathon in almost six hours, placing in the last four.

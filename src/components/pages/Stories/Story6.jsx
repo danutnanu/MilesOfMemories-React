@@ -15,7 +15,12 @@ function Story6() {
           <div className="col-lg-6">
             <div className="text-center text-secondary h5 p-5 m-5 border border-secondary">
               <p>
-                TEXT TEXT TEXT
+                Four months before this marathon, I started my training and ran around 500 km.
+                The closer I got to marathon day, the more prepared I felt.
+                A few days before the run, I came down with a very bad cold. DISAPPOINTMENT.
+                I decided to go even if I had to walk the entire marathon.
+                In the end, I managed to finish with almost the same time as last year.
+                By far, this was the hardest run I've ever done.
               </p>
             </div>
           </div>
@@ -162,7 +167,7 @@ function Story6() {
               <td>28.04.2024</td>
               <td className='text-success'>Plymouth Half</td>
               <td>27m 20s</td>
-              <td>53:46</td>
+              <td>53m 46s</td>
               <td>1:21</td>
               <td>1:50</td>
               <td className='text-danger'>1:58</td>
@@ -176,16 +181,16 @@ function Story6() {
               <th scope="row">6</th>
               <td>12.05.2024</td>
               <td className='text-success'>Exeter Marathon</td>
+              <td>27m 45s</td>
+              <td>56m 59s</td>
+              <td>1:26</td>
+              <td>1:59</td>
               <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td className='text-danger'>?</td>
+              <td>2:39</td>
+              <td>3:22</td>
+              <td>4:07</td>
+              <td>4:54</td>
+              <td className='text-danger'>5:17</td>
             </tr>
           </tbody>
         </table>

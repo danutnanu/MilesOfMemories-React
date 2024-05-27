@@ -15,7 +15,9 @@ function Story4() {
           <div className="col-lg-6">
             <div className="text-center text-secondary h5 p-5 m-5 border border-secondary">
               <p>
-                TEXT TEXT TEXT
+                Back to Eden Marathon, my third marathon overall.
+                With more training and experience, I completed my first marathon in under 5 hours.
+                It was a good day, requiring a lot of effort, but I finished with a big smile.
               </p>
             </div>
           </div>

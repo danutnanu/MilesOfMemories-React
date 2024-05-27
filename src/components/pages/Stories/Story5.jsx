@@ -16,7 +16,10 @@ function Story5() {
           <div className="col-lg-6">
             <div className="text-center text-secondary h5 p-5 m-5 border border-secondary">
               <p>
-                TEXT TEXT TEXT
+                Even if I wasn't well enought in the last couple of days,
+                I hoped to have a nice and easy run. I finished under 2 hours
+                for the first time but felt a little more tired than I expected.
+                This half marathon is still part of my training for the Exeter Marathon, which is in two weeks.
               </p>
             </div>
           </div>
@@ -149,7 +152,7 @@ function Story5() {
               <td>28.04.2024</td>
               <td className='text-success'>Plymouth Half</td>
               <td>27m 20s</td>
-              <td>53:46</td>
+              <td>53m 46s</td>
               <td>1:21</td>
               <td>1:50</td>
               <td className='text-danger'>1:58</td>
