@@ -2,7 +2,6 @@ import React, { useState } from 'react'
 import './Navbar.css'
 
 function Navbar() {
-
   return (
     <>
       <ul class="nav nav-tabs sticky-top bg-body-tertiary justify-content-end">
