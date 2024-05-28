@@ -15,10 +15,10 @@ function Story6() {
           <div className="col-lg-6">
             <div className="text-center text-secondary h5 p-5 m-5 border border-secondary">
               <p>
-                Four months before this marathon, I started my training and ran around 500 km.
+                Four months before the marathon, I started my training and ran around 500 km.
                 The closer I got to marathon day, the more prepared I felt.
-                A few days before the run, I came down with a very bad cold. DISAPPOINTMENT.
-                I decided to go even if I had to walk the entire marathon.
+                However, a few days before the run, I came down with a very bad cold—disappointment.
+                Despite this, I decided to participate, even if I had to walk the entire marathon.
                 In the end, I managed to finish with almost the same time as last year.
                 By far, this was the hardest run I've ever done.
               </p>
