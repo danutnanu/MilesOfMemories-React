@@ -15,7 +15,7 @@ function Story7() {
           <div className="col-lg-6">
             <div className="text-center text-secondary h5 p-5 m-5 border border-secondary">
               <p>
-                TEXT TEXT TEXT
+                COMING SOON...
               </p>``
             </div>
           </div>
@@ -25,28 +25,28 @@ function Story7() {
                 <Carousel.Item>
                   <img
                     className="d-block w-100 rounded"
-                    src="./1marathon22.png"
+                    src="./logo2.png"
                     alt="First slide"
                   />
                 </Carousel.Item>
                 <Carousel.Item>
                   <img
                     className="d-block w-100 rounded"
-                    src="./2marathon22.png"
+                    src="./logo2.png"
                     alt="Second slide"
                   />
                 </Carousel.Item>
                 <Carousel.Item>
                   <img
                     className="d-block w-100 rounded"
-                    src="./3marathon22.png"
+                    src="./logo2.png"
                     alt="third slide"
                   />
                 </Carousel.Item>
                 <Carousel.Item>
                   <img
                     className="d-block w-100 rounded"
-                    src="./4marathon22.png"
+                    src="./logo2.png"
                     alt="fourth slide"
                   />
                 </Carousel.Item>
