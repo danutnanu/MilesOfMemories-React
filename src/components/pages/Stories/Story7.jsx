@@ -141,11 +141,11 @@ function Story7() {
               <th scope="row">5</th>
               <td>28.04.2024</td>
               <td className='text-success'>Plymouth Half</td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td className='text-danger'>?</td>
+              <td>27m 20s</td>
+              <td>53m 46s</td>
+              <td>1:21</td>
+              <td>1:50</td>
+              <td className='text-danger'>1:58</td>
               <td></td>
               <td></td>
               <td></td>
@@ -156,16 +156,16 @@ function Story7() {
               <th scope="row">6</th>
               <td>12.05.2024</td>
               <td className='text-success'>Exeter Marathon</td>
+              <td>27m 45s</td>
+              <td>56m 59s</td>
+              <td>1:26</td>
+              <td>1:59</td>
               <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td></td>
-              <td className='text-danger'>?</td>
+              <td>2:39</td>
+              <td>3:22</td>
+              <td>4:07</td>
+              <td>4:54</td>
+              <td className='text-danger'>5:17</td>
             </tr>
             <tr class="table-success">
               <th scope="row">4</th>
