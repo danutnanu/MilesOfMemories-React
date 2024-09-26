@@ -12,7 +12,7 @@ function Navigation() {
   return (
     <Navbar expanded={expanded} onToggle={() => setExpanded(!expanded)} expand="lg" className="bg-body-tertiary fixed-top">
       <Container>
-        <img src="/public/athletics.ico" alt="logo" width="30" height="24" className="d-inline-block align-text-top m-1" />
+        <img src="/athletics.ico" alt="logo" width="30" height="24" className="d-inline-block align-text-top m-1" />
         <a className="badge text-bg-light text-wrap fst-italic px-3 me-1 border border-info" >RUN</a>
         <Navbar.Toggle aria-controls="basic-navbar-nav" onClick={() => setExpanded(!expanded)} />
         <Navbar.Collapse id="basic-navbar-nav">
