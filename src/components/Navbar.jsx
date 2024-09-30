@@ -2,12 +2,15 @@ import React, { useState } from 'react';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
+import { Link, useNavigate } from 'react-router-dom';
 
 function Navigation() {
   const [expanded, setExpanded] = useState(false);
+  const navigate = useNavigate();
 
-  const handleLinkClick = () => {
+  const handleLinkClick = (path) => {
     setExpanded(false);
+    navigate(path);
   };
   return (
     <Navbar expanded={expanded} onToggle={() => setExpanded(!expanded)} expand="lg" className="bg-body-tertiary fixed-top">
@@ -17,10 +20,10 @@ function Navigation() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" onClick={() => setExpanded(!expanded)} />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto ms-5">
-            <Nav.Link href="/#" onClick={handleLinkClick}>Home</Nav.Link>
-            <Nav.Link href="#run2022" onClick={handleLinkClick}>Run 2022</Nav.Link>
-            <Nav.Link href="#run2023" onClick={handleLinkClick}>Run 2023</Nav.Link>
-            <Nav.Link href="#run2024" onClick={handleLinkClick}>Run 2024</Nav.Link>
+            <Nav.Link onClick={() => handleLinkClick('/')} href="#">Home</Nav.Link>
+            <Nav.Link onClick={() => handleLinkClick('/#run2022')} href="#run2022">Run 2022</Nav.Link>
+            <Nav.Link onClick={() => handleLinkClick('/#run2023')} href="#run2023">Run 2023</Nav.Link>
+            <Nav.Link onClick={() => handleLinkClick('/#run2024')} href="#run2024">Run 2024</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
