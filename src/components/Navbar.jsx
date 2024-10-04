@@ -20,7 +20,7 @@ function Navigation() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" onClick={() => setExpanded(!expanded)} />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto ms-5">
-            <Nav.Link onClick={() => handleLinkClick('/')} href="#">Home</Nav.Link>
+            <Nav.Link onClick={() => handleLinkClick('/home')} href="/#">Home</Nav.Link>
             <Nav.Link onClick={() => handleLinkClick('/#run2022')} href="#run2022">Run 2022</Nav.Link>
             <Nav.Link onClick={() => handleLinkClick('/#run2023')} href="#run2023">Run 2023</Nav.Link>
             <Nav.Link onClick={() => handleLinkClick('/#run2024')} href="#run2024">Run 2024</Nav.Link>
