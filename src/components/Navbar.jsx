@@ -18,8 +18,8 @@ function Navigation() {
         <img src="/athletics.ico" alt="logo" width="30" height="24" className="d-inline-block align-text-top m-1" />
         <a className="badge text-bg-light text-wrap fst-italic px-3 me-1 border border-info" >RUN</a>
         <Navbar.Toggle aria-controls="basic-navbar-nav" onClick={() => setExpanded(!expanded)} />
-        <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="me-auto ms-5">
+        <Navbar.Collapse id="basic-navbar-nav" className="justify-content-center text-center me-4">
+          <Nav>
             <Nav.Link onClick={() => handleLinkClick('/home')} href="/#">Home</Nav.Link>
             <Nav.Link onClick={() => handleLinkClick('/#run2022')} href="#run2022">Run 2022</Nav.Link>
             <Nav.Link onClick={() => handleLinkClick('/#run2023')} href="#run2023">Run 2023</Nav.Link>
