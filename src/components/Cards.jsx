@@ -50,8 +50,8 @@ function Cards() {
                 path='story6'
               />
               <CardItem
-                src='logo2.png'
-                text='October 2024'
+                src='1Eden24.png'
+                text='Eden Marathon - October 2024'
                 path='story7'
               />
           </ul>

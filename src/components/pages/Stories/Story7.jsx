@@ -25,29 +25,50 @@ function Story7() {
                 <Carousel.Item>
                   <img
                     className="d-block w-100 rounded"
-                    src="./logo2.png"
+                    src="./2Eden24.png"
                     alt="First slide"
                   />
                 </Carousel.Item>
                 <Carousel.Item>
                   <img
                     className="d-block w-100 rounded"
-                    src="./logo2.png"
+                    src="./3Eden24.png"
                     alt="Second slide"
                   />
                 </Carousel.Item>
                 <Carousel.Item>
                   <img
                     className="d-block w-100 rounded"
-                    src="./logo2.png"
+                    src="./4Eden24.png"
                     alt="third slide"
                   />
                 </Carousel.Item>
                 <Carousel.Item>
                   <img
                     className="d-block w-100 rounded"
-                    src="./logo2.png"
+                    src="./5Eden24.png"
                     alt="fourth slide"
+                  />
+                </Carousel.Item>
+                <Carousel.Item>
+                  <img
+                    className="d-block w-100 rounded"
+                    src="./6Eden24.png"
+                    alt="First slide"
+                  />
+                </Carousel.Item>
+                <Carousel.Item>
+                  <img
+                    className="d-block w-100 rounded"
+                    src="./7Eden24.png"
+                    alt="Second slide"
+                  />
+                </Carousel.Item>
+                <Carousel.Item>
+                  <img
+                    className="d-block w-100 rounded"
+                    src="./8Eden24.png"
+                    alt="third slide"
                   />
                 </Carousel.Item>
               </Carousel>
