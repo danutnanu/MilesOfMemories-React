@@ -46,7 +46,7 @@ This project is a continuation of the [React-Run](https://github.com/danutnanu/R
    npm start
    ```
 
-6. **View in Browser**: Open your browser and go to `http://localhost:3000` to see your local copy running.
+6. **View in Browser**: Open your browser and go to your localhost to see your project running.
 
 ## Contact
 
