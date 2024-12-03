@@ -43,7 +43,7 @@ This project is a continuation of the [React-Run](https://github.com/danutnanu/R
 
 5. **Start the Application**: Once the installation is complete, start the application with:
    ```bash
-   npm start
+   npm run dev
    ```
 
 6. **View in Browser**: Open your browser and go to your localhost to see your project running.
